@@ -1,4 +1,4 @@
-# Cab-Booking-App
+# EzCabz
 
 Welcome to the Cab Hailing Application! This project is a mobile application built using Kivy and Python, designed to provide users with a seamless experience for hailing cabs. Whether you need a ride to work, a trip to the airport, or a night out, our app connects you with reliable drivers in just a few taps.
 
