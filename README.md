@@ -94,4 +94,4 @@ Sivasriraman P - sivasriraman2370066@ssn.edu.in
 
 ## Project Link
 
-Github - https://github.com/Sidtheogdeveloper/Cab-Booking-App
+Github - https://github.com/Sidtheogdeveloper/EzCabz
